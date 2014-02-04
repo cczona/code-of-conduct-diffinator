@@ -62,6 +62,11 @@ Please include all front matter fields. It's fine if they're empty.
 
 **Note**: The leading triple-hyphen must be the file's first line. The front matter's trailing newline-triple-hyphen-newline combination must terminate the section.
 
+If the code of conduct is maintained by the conf/org in a public repository, please add the optional front matter field "forkable file":
+
+    forkable file: https://github.com/stumpsyn/policies/blob/master/citizen_code_of_conduct.md
+
+**Note**: please use the URL of the code of conduct file itself, rather than to the repository generically.
 
 ##### Content
 

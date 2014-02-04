@@ -5,6 +5,7 @@ date announced: March 17, 2013
 date archived: Feb 04, 2014
 url: http://citizencodeofconduct.org/
 credited parents: 
+forkable file: https://github.com/stumpsyn/policies/blob/master/citizen_code_of_conduct.md
 
 ---
 

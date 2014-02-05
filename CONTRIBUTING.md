@@ -1,13 +1,6 @@
 # Contributing
 
-Thank you for contributing. Your contribution to the project is truly meaningful. 
-
-Understanding codes of conduct -- how they derive, inspire, and adapt -- is valuable for community participants at all levels. 
-
-Nuances of language reflect the individuality of their communities' unique vision and values.
-
-Ability to make comparisons make it easy for each of us to make consistent decisions that fit our own values and expectations -- whether as a community member, visitor, organizer, or sponsor.
-
+Thank you for contributing to code-of-conduct-diffinator! 
 
 
 ## Guidelines
@@ -38,6 +31,8 @@ Save As is nicely easy. But for the sake of clarity, here's the details:
 Please name file in format:
 
     [conference or organization name, hyphen-delimited]-[applicable year if available]-[long|medium|short if there more than one applicable].md
+
+All character in lower case. Use hyphens for spaces.
     
 ##### Examples
 

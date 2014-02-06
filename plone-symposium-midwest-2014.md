@@ -23,4 +23,3 @@ If a participant engages in harassing behavior, representatives of the community
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please act to intercede or ask for help from any member of the Plone Foundation, IRC chat admins, website admins, or organizers/representatives of any physical events put on under the auspices of the Plone Foundation.
 
 If you believe you have been targeted by any of the behaviours or actions listed in the Plone Code of Conduct, please speak immediately to one of the Plone Symposium Midwest organizers (Kim Nguyen, John Hren, Brian Ledwell, David Hietpas, Luke Scorcio, Rob Porter, Ken Wasetis, Carol Ganz, Nathan Van Gheem).
-

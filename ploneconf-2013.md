@@ -30,4 +30,3 @@ If you are being harassed, notice that someone else is being harassed, or have a
 Thank you for helping make this a welcoming, friendly event for all.
 
 This Code of Conduct has been adapted from the Plone Foundation and the PyCon US and are licensed under a Creative Commons Attribution-Share Alike 3.0 Unported license
-

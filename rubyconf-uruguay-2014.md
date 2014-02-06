@@ -1,10 +1,10 @@
 ---
 layout: coc
-organization: 
-date announced:  
+organization:
+date announced:
 date archived: Feb 04, 2014
-url: 
-credited parents: 
+url:
+credited parents:
 
 ---
 

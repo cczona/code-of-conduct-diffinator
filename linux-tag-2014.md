@@ -1,7 +1,7 @@
 ---
 layout: coc
-conference: Linux Tage 2014
-date announced:  
+conference: Linux Tag 2014
+date announced:
 date archived: Feb 04, 2014
 url: http://www.linuxtag.org/2014/en/codeofconduct.html
 credited parents: JSConf US & Ada Initiative

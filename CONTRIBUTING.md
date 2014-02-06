@@ -1,6 +1,6 @@
 # Contributing
 
-Thank you for contributing to code-of-conduct-diffinator! 
+Thank you for contributing to code-of-conduct-diffinator!
 
 
 ## Guidelines

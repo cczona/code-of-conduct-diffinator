@@ -1,0 +1,94 @@
+---
+layout: coc
+organization: Write. Speak. Code. 2013
+date announced:
+date archived: Feb 09, 2014
+url: 
+credited parents: Geek Feminism
+
+---
+
+Write.Speak.Code. Code of Conduct and Anti-Harassment Policy
+
+Write.Speak.Code. is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers. Our anti-harassment policy can be found at: http://writespeakcode.com/code-of-conduct
+
+Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. Participants asked to stop any harassing behavior are expected to comply immediately. If a participant engages in harassing behavior, the conference organizers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately. Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
+
+Conference organizers can be contacted by email at: info@writespeakcode.com
+
+If the matter is especially urgent, please call/contact any of these individuals:
+
+Rachel Ober: (347) 915-5709
+
+Rebecca Miller-Webster: (347) 735-6615
+
+Pace University Director of Safety and Security
+
+Vincent Beatty
+
+(914) 773-3700
+
+vbeatty@pace.edu
+
+We expect participants to follow these rules at all conference venues and conference-related social events.
+
+Staff Procedure for incident handling
+
+Warnings
+
+Any member of conference staff can issue a verbal warning to a participant that their behavior violates the conference's anti-harassment policy. Warnings should be reported to info@writespeakcode.com as soon as practical.
+
+The report should include:
+
+* Identifying information (name/badge number) of the participant
+* The time you issued the warning
+* The behavior that was in violation
+* The approximate time of the behavior (if different than the time of warning)
+* The circumstances surrounding the incident
+* Your identity
+* Other people involved in the incident
+
+Presentations
+
+Presentations or similar events should not be stopped for one-time gaffes or minor problems, although a member of conference staff should speak to the presenter afterward. However, staff should take immediate action to politely and calmly stop any presentation or event that repeatedly or seriously violates the anti-harassment policy. For example, simply say "I'm sorry, this presentation cannot be continued at the present time" with no further explanation.
+
+Taking Reports
+
+When taking a report from someone experiencing harassment you should record what they say and reassure them they are being taken seriously, but avoid making specific promises about what actions the organizers will take. Ask for any other information if the reporter has not volunteered it (such as time, place) but do not pressure them to provide it if they are reluctant. Even if the report lacks important details such as the identity of the person taking the harassing actions, it should still be recorded and passed along to the appropriate staff member(s). If the reporter desires it, arrange for an escort by conference staff or a trusted person, contact a friend, and contact local law enforcement. Do not pressure the reporter to take any action if they do not want to do it. Respect the reporter's privacy by not sharing unnecessary details with others, especially individuals who were not involved with the situation or non-staff members.
+
+The report should include:
+
+* Identifying information (name/badge number) of the participant
+* The time you issued the warning
+* The behavior that was in violation
+* The approximate time of the behavior (if different than the time of warning)
+* The circumstances surrounding the incident
+* Your identity
+
+Other people involved in the incident
+
+Expulsion
+
+A participant may be expelled by the decision of any of the above listed entities for whatever reasons they deem sufficient. However, here are some general guidelines for when a participant should be expelled:
+
+* A third offense resulting in a warning from staff
+* Continuing to harass after any "No" or "Stop" instruction
+* A pattern of harassing behavior, with or without warnings
+* A single serious offense (e.g., punching or groping someone)
+* A single obviously intentional offense (e.g., taking up-skirt photos)
+
+Hotel/venue security and local authorities should be contacted when appropriate.
+
+Pace University Director of Safety and Security
+
+Vincent Beatty
+(914) 773-3700
+vbeatty@pace.edu
+
+Public Statements
+
+As a general rule, conference staff should not make any public statements about the behavior of individual people during or after the conference.
+
+In general, consult with other staff members when possible but act when necessary.
+
+This anti-harassment policy is based on the example policy from the Geek Feminism wiki, created by the Ada Initiative and other volunteers.

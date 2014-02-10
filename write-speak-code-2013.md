@@ -1,6 +1,6 @@
 ---
 layout: coc
-organization: Write. Speak. Code. 2013
+conference: Write. Speak. Code. 2013
 date announced:
 date archived: Feb 09, 2014
 url: 

@@ -16,12 +16,24 @@ $ git clone https://github.com/cczona/code-of-conduct-diffinator.git
 
 $ cd code-of-conduct-diffinator
 
-$ diff `conference-1.md` `conference-2`
+$ diff -y `conference-1.md` `conference-2`
 
 ### Alternate Usage
 
-There are many alternatives to `diff` available. For instance, if Xcode is installed then substituting `$ opendiff` brings up a nice GUI called FileMerge.app
+There are many alternatives to the `diff` command. For comparing codes of conduct, word or character diffs are more informative anyway.
 
+#### opendiff
+
+Xcode Commandline Tools includes a nice GUI called FileMerge.app, which does word diffs. Invoke it at the commandline as`$ opendiff`.
+
+#### colordiff
+
+`$ colordiff -y -d` 
+
+#### gvim
+
+`$ gvim -d`
+    
 
 ## Crediting
 

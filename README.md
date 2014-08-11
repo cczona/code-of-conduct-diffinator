@@ -16,7 +16,7 @@ $ git clone https://github.com/cczona/code-of-conduct-diffinator.git
 
 $ cd code-of-conduct-diffinator
 
-$ diff -y `conference-1.md` `conference-2`
+$ diff -y `conference-1.md` `conference-2.md`
 
 ### Alternate Usage
 

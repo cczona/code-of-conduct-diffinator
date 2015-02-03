@@ -14,21 +14,6 @@ Example anti-harassment policy for conferences
 
 Most conferences will want several different versions of an anti-harassment policy: a short, medium, and long version of the policy for public consumption, and an internal version spelling out implementation for use by the conference organizers and staff.
 
-Short public version
-
-This is a very short version that refers the reader to a longer version of the policy. Suitable for footers on announcement emails, web pages, news stories, etc.
-
-$CONFERENCE is dedicated to a harassment-free conference experience for everyone. Our anti-harassment policy can be found at:
-[URL for full anti-harassment policy]
-
-Medium public version
-
-This is a statement of the organizers' principles and sets expectations for the tone and style of the conference. Suitable for the conference web site and longer announcements.
-
-$CONFERENCE is dedicated to providing a harassment-free conference experience for everyone [, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, or religion [insert any other specific concerns here]]. We do not tolerate harassment of conference participants in any form. [Sexual language and imagery is not appropriate for any conference venue, including talks.] Conference participants violating these rules may be sanctioned or expelled from the conference [without a refund] at the discretion of the conference organizers. Our anti-harassment policy can be found at:
-
-[URL for full anti-harassment policy]
-
 Long public version
 
 This version focuses on specific instructions to the participants, with the goal of preventing harassment in the first place through education. Suitable for the conference web site and conference program material.

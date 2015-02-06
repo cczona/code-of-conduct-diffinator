@@ -26,9 +26,11 @@ There are many alternatives to the `diff` command. For comparing codes of conduc
 
 Xcode Commandline Tools includes a nice GUI called FileMerge.app, which does word diffs. Invoke it at the commandline as`$ opendiff`.
 
-#### colordiff
+#### wdiff & colordiff
 
-`$ colordiff -y -d` 
+`$ wdiff BENCHMARK_COC COMPARISON_COC | colordiff` 
+
+(Mac users: these are available from Homebrew.)
 
 #### gvim
 

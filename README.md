@@ -4,11 +4,13 @@ _An archive of programming conferences' code of conduct policies. In tasty plain
 
 ===
 
+
 ## Why
 Ability to explore programming conference codes of conduct -- how they derive, adapt, and inspire others -- gives us valuable insights; as programming conference organizers who seek create a code and refine it, as community members who are held accountable for upholding it, and as sponsors who evaluate whether to support it.
 
 Exploring a spectrum of approaches, and their nuances of language, gives us insights into conferences' values, vision, and expectations.
 
+**IMPORTANT: Inclusion of a particular code of conduct is neither intended as endorsement nor disapproval. A dataset of varied examples gives everyone a useful basis for more thoughtful conversations. You can help add to the conversation by contributing pull requests for additional programming conferences and organizations.**
 
 ## Usage
 
@@ -24,18 +26,19 @@ There are many alternatives to the `diff` command. For comparing codes of conduc
 
 #### opendiff
 
-Xcode Commandline Tools includes a nice GUI called FileMerge.app, which does word diffs. Invoke it at the commandline as`$ opendiff`.
+Xcode Commandline Tools includes a nice GUI called FileMerge.app, which does word diffs. Filemerge is invoked at the commandline as opendiff.
+
+`$ opendiff`
 
 #### wdiff & colordiff
 
-`$ wdiff BENCHMARK_COC COMPARISON_COC | colordiff` 
+`$ wdiff conference-1.md conference-2.md | colordiff`
 
 (Mac users: these are available from Homebrew.)
 
 #### gvim
 
 `$ gvim -d`
-    
 
 ## Crediting
 

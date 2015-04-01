@@ -72,3 +72,5 @@ If the code of conduct is maintained by the conf/org in a public repository, ple
   * Remove any forced line breaks _within_ text, such as within paragraphs
   
   * Add newline _between_ text, such as between titles or paragraphs
+  
+  * Follow the Unix line ending convention ("LF"). If editing on Windows, use a text editor that can convert Windows line endings ("CR+LF") to the Unix line endings. Another option is to have Git convert line endings upon commit: https://help.github.com/articles/dealing-with-line-endings/
